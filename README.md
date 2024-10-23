@@ -18,7 +18,7 @@ This project demonstrates the use of **Three.js** to load a cyberpunk-style 3D m
 
 ### Prerequisites
 
-Make sure you have **Node.js** installed:
+Make sure you have **Node.js** installed , **Run Commands One by One** :
 
 ```bash
 node -v
